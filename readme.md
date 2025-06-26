@@ -17,8 +17,8 @@
 - Filter relations
 
 
-![alt tag](https://github.com/evtdixon/spa-laravel-vuejs/raw/master/s1.png)
+![alt tag](https://github.com/EvtDixon/Vue_Laravel_SPA/blob/master/s1.png)
 
-![alt tag](https://github.com/evtdixon/spa-laravel-vuejs/raw/master/s2.png)
+![alt tag](https://github.com/EvtDixon/Vue_Laravel_SPA/blob/master/s1.png)
 
-![alt tag](https://github.com/evtdixon/spa-laravel-vuejs/raw/master/s3.png)
+![alt tag](https://github.com/EvtDixon/Vue_Laravel_SPA/blob/master/s1.png)
