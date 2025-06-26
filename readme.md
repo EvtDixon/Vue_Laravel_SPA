@@ -17,19 +17,8 @@
 - Filter relations
 
 
-![alt tag](https://github.com/codekerala/spa-laravel-vuejs/raw/master/s1.png)
+![alt tag](https://github.com/evtdixon/spa-laravel-vuejs/raw/master/s1.png)
 
-![alt tag](https://github.com/codekerala/spa-laravel-vuejs/raw/master/s2.png)
+![alt tag](https://github.com/evtdixon/spa-laravel-vuejs/raw/master/s2.png)
 
-![alt tag](https://github.com/codekerala/spa-laravel-vuejs/raw/master/s3.png)
-
-### Installation
-`git clone https://github.com/codekerala/spa-laravel-vuejs.git`
-
-`cd spa-laravel-vuejs`
-
-`composer install`
-
-### On Youtube
-
-Development: https://youtu.be/gaoqbUvMrBs
+![alt tag](https://github.com/evtdixon/spa-laravel-vuejs/raw/master/s3.png)
